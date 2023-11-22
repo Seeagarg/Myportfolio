@@ -23,7 +23,7 @@ const EmailSection = () => {
       .then((result) => {
           console.log(result.text);
           console.log("message sent");
-          // setEmailSubmitted(true);
+          setEmailSubmitted(true);
       }, (error) => {
           console.log(error.text);
       });
