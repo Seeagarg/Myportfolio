@@ -57,7 +57,7 @@ const projectsData = [
     image: "/images/projects/TextUtills.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/textutils",
-    previewUrl: "/",
+    previewUrl: "https://textutils-bmnz.vercel.app/",
   },
   {
     id: 7,
