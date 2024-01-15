@@ -60,16 +60,16 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Todos List",
     description: "You can create a List of work you want to do.",
     image: "/images/projects/TodosList.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/textutils",
-    previewUrl: "/",
+    previewUrl: "https://todo-list-phi-lilac.vercel.app/",
   },
   {
-    id: 6,
+    id: 8,
     title: "Temperature Converter",
     description: "It provides a user Interface to convert temperature from kelvin to celcius or from celcius to kelvin.",
     image: "/images/projects/temp_conv.png",
@@ -78,7 +78,7 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/CodeAlpha_TemperatureConverter/",
   },
   {
-    id: 6,
+    id: 9,
     title: "Background Generator",
     description: "By inputting Two Colors a Background is generated and css for that is shown.",
     image: "/images/projects/back_gen.png",
@@ -87,7 +87,7 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/CodeAlpha_BackgroundGenerator/",
   },
   {
-    id: 6,
+    id: 10,
     title: "Personal Portfolio",
     description: "This is My Personal Website using Next JS.",
     image: "/images/projects/portfolio.png",
