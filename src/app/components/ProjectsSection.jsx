@@ -34,6 +34,15 @@ const projectsData = [
   },
   {
     id: 4,
+    title: "Prime Flicks",
+    description: "This is a movie website clone gives us the data of different category of movies.",
+    image: "/images/projects/movie.png",
+    tag: ["All", "React"],
+    gitUrl: "https://github.com/Seeagarg/InternVisiontrek_movie_website",
+    previewUrl: "https://prime-flicks.vercel.app/",
+  },
+  {
+    id: 5,
     title: "Project During Internship",
     description: "This project is the replication of company's existing project made during my Internship.",
     image: "/images/projects/intern.png",
@@ -41,8 +50,9 @@ const projectsData = [
     gitUrl: "https://github.com/Seeagarg/deploy-react-ims",
     previewUrl: "https://seeagarg.github.io/deploy-react-ims/",
   },
+  
   {
-    id: 5,
+    id: 6,
     title: "Explore Wonders",
     description: "This Project provides you the information of various visiting places all around the world such that adventurous places,religious places etc.",
     image: "/images/projects/trip.png",
@@ -51,7 +61,7 @@ const projectsData = [
     previewUrl: "https://code-alpha-explore-wonders.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "TextUtills",
     description: "It Provides an User Interface for Converting text into Uppercase or LowerCase or to remove spaces from the text.",
     image: "/images/projects/TextUtills.png",
@@ -60,7 +70,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 6,
+    id: 8,
     title: "Todos List",
     description: "You can create a List of work you want to do.",
     image: "/images/projects/TodosList.png",
@@ -69,7 +79,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 6,
+    id: 9,
     title: "Temperature Converter",
     description: "It provides a user Interface to convert temperature from kelvin to celcius or from celcius to kelvin.",
     image: "/images/projects/temp_conv.png",
@@ -78,7 +88,7 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/CodeAlpha_TemperatureConverter/",
   },
   {
-    id: 6,
+    id: 10,
     title: "Background Generator",
     description: "By inputting Two Colors a Background is generated and css for that is shown.",
     image: "/images/projects/back_gen.png",
@@ -87,7 +97,7 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/CodeAlpha_BackgroundGenerator/",
   },
   {
-    id: 6,
+    id: 11,
     title: "Personal Portfolio",
     description: "This is My Personal Website using Next JS.",
     image: "/images/projects/portfolio.png",
