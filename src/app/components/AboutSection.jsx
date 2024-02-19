@@ -97,7 +97,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             
            
-"I am a dedicated B.Tech student currently interning at VisionTrek Communications as a React.js Developer, expanding my skills in various React.js libraries and exploring Strapi for backend development. With a strong foundation in HTML, CSS, JavaScript, and React.js, coupled with a passion for front-end development, I excel in creating engaging web applications. My robust communication skills and diligent work ethic make me a valuable asset in collaborative environments, where I{`'`}m eager to contribute and make a meaningful impact."
+I am a dedicated B.Tech student currently interning at VisionTrek Communications as a React.js Developer, expanding my skills in various React.js libraries and exploring Strapi for backend development. With a strong foundation in HTML, CSS, JavaScript, and React.js, coupled with a passion for front-end development, I excel in creating engaging web applications. My robust communication skills and diligent work ethic make me a valuable asset in collaborative environments, where I{`'`}m eager to contribute and make a meaningful impact.
           </p>
           <div className="flex flex-row justify-start mt-8 text-xl">
             <TabButton
