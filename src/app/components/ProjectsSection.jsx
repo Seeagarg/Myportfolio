@@ -105,15 +105,15 @@ const projectsData = [
     gitUrl: "https://github.com/Seeagarg/CodeAlpha_BackgroundGenerator",
     previewUrl: "https://seeagarg.github.io/CodeAlpha_BackgroundGenerator/",
   },
-  // {
-  //   id: 12,
-  //   title: "Tic Tac Toe",
-  //   description: "This is my First Live Project at Visiontrek Communication.It is a Classic 2-player game. Strategically place Xs and Os to create a winning line on a 3x3 grid.",
-  //   image: "/images/projects/TicTacToe.png",
-  //   tag: ["All", "React"],
-  //   gitUrl: "https://github.com/Seeagarg/TicTacToe-5-7",
-  //   previewUrl: "https://www.tictac.promotrking.com/",
-  // },
+  {
+    id: 12,
+    title: "Tic Tac Toe",
+    description: "This is my First Live Project at Visiontrek Communication.It is a Classic 2-player game. Strategically place Xs and Os to create a winning line on a 3x3 grid.",
+    image: "/images/projects/TicTacToe.png",
+    tag: ["All", "React"],
+    gitUrl: "https://github.com/Seeagarg/TicTacToe-5-7",
+    previewUrl: "https://www.tictac.promotrking.com/",
+  },
 ];
 
 const ProjectsSection = () => {
