@@ -8,13 +8,27 @@ const TAB_DATA = [
     title: "Skills",
     id: "skills",
     content: (
+      <ul className="flex justify-start gap-10">
       <ul className="list-disc pl-2 text-base">
-        <li>React.js</li>
+      <li>C++</li>
+        <li>DSA</li>
+        <li>MySql</li>
         <li>HTML,CSS</li>
+      </ul>
+        
+        <ul className="list-disc pl-2 text-base">
         <li>JavaScript</li>
-        <li>C++</li>
+        <li>React.js</li>
+        <li>Redux Js</li>
         <li>Node.js</li>
+        </ul>
+        <ul className="list-disc pl-2 text-base">
         <li>Express Js</li>
+        <li>REST API</li>
+        <li>GraphQL</li>
+        <li>Apollo</li>
+        
+        </ul>
       </ul>
     ),
   },
@@ -42,7 +56,7 @@ const TAB_DATA = [
           <li className="font-extrabold">Graduation(2020-2024)</li>
           <li>B.tech in Computer Science and Engineering</li>
           <li>IK Gujral Punjab Technical University,Kapurthala</li>
-          <li>cgpa:89.4.</li>
+          <li>cgpa:8.85.</li>
           </ul>
         </li>
       </ul>
@@ -57,19 +71,29 @@ const TAB_DATA = [
           <ul >
             <li className="font-extrabold">Jai Santoshi Infosystem Pvt Ltd.</li>
             <li>FrontEnd (Web) Developer</li>
-            <li>Applied React.js skills to recreate the company website, showcasing practical application of theoretical knowledge. Strengthened front-end proficiency through hands-on experiences, deepening web development understanding.</li>
+            <li>During my internship, Recreated company website with React.js, strengthening front-end skills and web development knowledge</li>
           </ul>
         </li>
 
         <li>
         <ul >
             <li className="font-extrabold">Visiontrek Communications</li>
-            <li>FrontEnd (Web) Developer</li>
-            <li>Currently I am working as an intern at visiontrek Communications.</li>
+            <li>ReactJS Developer Intern</li>
+            <li>At VisionTrek Communication, During My Internship I created dynamic UIs,Gaming and Video Portals, and used Redux Toolkit for state management, enhancing my front-end architecture skills.</li>
+          </ul>
+        </li>
+
+        <li>
+        <ul >
+            <li className="font-extrabold">Visiontrek Communications</li>
+            <li>Jr.ReactJS Developer</li>
+            <li>At VisionTrek Communication, I developed company's portfolio,made different video portals, integrate third-party APIs, and work on a DnD portal. I also added a video uploading section to the revenue portal, enabling AWS video uploads and access.</li>
           </ul>
         </li>
        
       </ul>
+      
+
       
           
 
@@ -99,7 +123,7 @@ const AboutSection = () => {
            
 I am a dedicated B.Tech student currently interning at VisionTrek Communications as a React.js Developer, expanding my skills in various React.js libraries and exploring Strapi for backend development. With a strong foundation in HTML, CSS, JavaScript, and React.js, coupled with a passion for front-end development, I excel in creating engaging web applications. My robust communication skills and diligent work ethic make me a valuable asset in collaborative environments, where I{`'`}m eager to contribute and make a meaningful impact.
           </p>
-          <div className="flex flex-row justify-start mt-8 text-xl">
+          <div className="flex flex-row justify-start gap-6 mt-8 text-xl">
             <TabButton
               selectTab={() => handleTabChange("skills")}
               active={tab === "skills"}

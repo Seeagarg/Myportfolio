@@ -47,12 +47,12 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1cg95yA7T7XRZzJDfPNi6C8gkKzopfS9-/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1jdgcLdagkNrBgjoiRmeYhCZYNbi71mV5/view?usp=sharing"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
             
             <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Download CV
+                View CV
               </span>
             
               

@@ -51,17 +51,9 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/deploy-react-ims/",
   },
   
+  
   {
     id: 6,
-    title: "Explore Wonders",
-    description: "This Project provides you the information of various visiting places all around the world such that adventurous places,religious places etc.",
-    image: "/images/projects/trip.png",
-    tag: ["All", "React"],
-    gitUrl: "https://github.com/Seeagarg/CodeAlpha_exploreWonders",
-    previewUrl: "https://code-alpha-explore-wonders.vercel.app/",
-  },
-  {
-    id: 7,
     title: "TextUtills",
     description: "It Provides an User Interface for Converting text into Uppercase or LowerCase or to remove spaces from the text.",
     image: "/images/projects/TextUtills.png",
@@ -70,7 +62,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 8,
+    id: 7,
     title: "Todos List",
     description: "You can create a List of work you want to do.",
     image: "/images/projects/TodosList.png",
@@ -79,7 +71,7 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 9,
+    id: 8,
     title: "Temperature Converter",
     description: "It provides a user Interface to convert temperature from kelvin to celcius or from celcius to kelvin.",
     image: "/images/projects/temp_conv.png",
@@ -88,7 +80,7 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/CodeAlpha_TemperatureConverter/",
   },
   {
-    id: 10,
+    id: 9,
     title: "Background Generator",
     description: "By inputting Two Colors a Background is generated and css for that is shown.",
     image: "/images/projects/back_gen.png",
@@ -97,18 +89,18 @@ const projectsData = [
     previewUrl: "https://seeagarg.github.io/CodeAlpha_BackgroundGenerator/",
   },
   {
-    id: 11,
+    id: 10,
     title: "Personal Portfolio",
-    description: "This is My Personal Website using Next JS.",
+    description: "This is My Personal Portfolio Website using Next JS.",
     image: "/images/projects/portfolio.png",
     tag: ["All", "Next"],
     gitUrl: "https://github.com/Seeagarg/CodeAlpha_BackgroundGenerator",
     previewUrl: "https://seeagarg.github.io/CodeAlpha_BackgroundGenerator/",
   },
   {
-    id: 12,
+    id: 11,
     title: "Tic Tac Toe",
-    description: "This is my First Live Project at Visiontrek Communication.It is a Classic 2-player game. Strategically place Xs and Os to create a winning line on a 3x3 grid.",
+    description: "This is my First Live Project at Visiontrek Communication.It is a Classic 2-player game. Strategically place Xs and Os to create a winning line on a 3x3 or 5x5 or 7x7 grid.",
     image: "/images/projects/TicTacToe.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/TicTacToe-5-7",
