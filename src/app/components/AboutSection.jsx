@@ -71,7 +71,7 @@ const TAB_DATA = [
           <ul >
             <li className="font-extrabold">Jai Santoshi Infosystem Pvt Ltd.</li>
             <li>FrontEnd (Web) Developer</li>
-            <li>During my internship, Recreated company website with React.js, strengthening front-end skills and web development knowledge</li>
+            <li>{`During my internship, Recreated company website with React.js, strengthening front-end skills and web development knowledge`}</li>
           </ul>
         </li>
 
@@ -79,7 +79,7 @@ const TAB_DATA = [
         <ul >
             <li className="font-extrabold">Visiontrek Communications</li>
             <li>ReactJS Developer Intern</li>
-            <li>At VisionTrek Communication, During My Internship I created dynamic UIs,Gaming and Video Portals, and used Redux Toolkit for state management, enhancing my front-end architecture skills.</li>
+            <li>{`At VisionTrek Communication, During My Internship I created dynamic UIs,Gaming and Video Portals, and used Redux Toolkit for state management, enhancing my front-end architecture skills.`}</li>
           </ul>
         </li>
 
@@ -87,7 +87,7 @@ const TAB_DATA = [
         <ul >
             <li className="font-extrabold">Visiontrek Communications</li>
             <li>Jr.ReactJS Developer</li>
-            <li>At VisionTrek Communication, I developed company's portfolio,made different video portals, integrate third-party APIs, and work on a DnD portal. I also added a video uploading section to the revenue portal, enabling AWS video uploads and access.</li>
+            <li>{`At VisionTrek Communication, I developed company's portfolio,made different video portals, integrate third-party APIs, and work on a DnD portal. I also added a video uploading section to the revenue portal, enabling AWS video uploads and access.`}</li>
           </ul>
         </li>
        
