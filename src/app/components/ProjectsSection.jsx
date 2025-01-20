@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/crewRentals.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/Rental_Rack",
-    previewUrl: "https://crewrental.co/",
+    previewUrl: "/",
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/fooddelivery.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/Food__Delivery",
-    previewUrl: "https://hungary-haste-1.vercel.app/",
+    previewUrl: "/",
   },
   {
     id: 4,
