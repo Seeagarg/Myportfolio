@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/crewRentals.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/Rental_Rack",
-    previewUrl: "/",
+    previewUrl: "https://crew-rentals-frontend.vercel.app/",
   },
   {
     id: 2,
