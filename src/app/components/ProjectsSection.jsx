@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/fooddelivery.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/Food__Delivery",
-    previewUrl: "https://hungary-haste-1.vercel.app/",
+    previewUrl: "https://food-delivery-front-end-gamma.vercel.app/login",
   },
   {
     id: 4,
