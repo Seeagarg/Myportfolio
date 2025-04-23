@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/fooddelivery.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/Food__Delivery",
-    previewUrl: "/",
+    previewUrl: "https://hungary-haste-1.vercel.app/",
   },
   {
     id: 4,
@@ -57,7 +57,7 @@ const projectsData = [
   image: "/images/projects/image.png",
   tag: ["All", "React"],
   gitUrl: "https://github.com/Seeagarg/newsapp",
-  previewUrl: "https://www.news.promotrking.com/",
+  previewUrl: "https://news-app-sand-chi.vercel.app/",
 },
 {
     id: 7,
@@ -77,7 +77,7 @@ const projectsData = [
     image: "/images/projects/TextUtills.png",
     tag: ["All", "React"],
     gitUrl: "https://github.com/Seeagarg/textutils",
-    previewUrl: "/",
+    previewUrl: "https://textutils-bmnz.vercel.app/",
   },
   {
     id: 9,
@@ -113,7 +113,7 @@ const projectsData = [
     image: "/images/projects/portfolio.png",
     tag: ["All", "Next"],
     gitUrl: "https://github.com/Seeagarg/CodeAlpha_BackgroundGenerator",
-    previewUrl: "https://seeagarg.github.io/CodeAlpha_BackgroundGenerator/",
+    previewUrl: "https://myportfolio-s5os-git-main-seeagarg0203gmailcoms-projects.vercel.app/",
   },
   
 ];
