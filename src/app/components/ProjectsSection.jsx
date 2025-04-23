@@ -112,7 +112,7 @@ const projectsData = [
     description: "This is My Personal Portfolio Website using Next JS.",
     image: "/images/projects/portfolio.png",
     tag: ["All", "Next"],
-    gitUrl: "https://github.com/Seeagarg/CodeAlpha_BackgroundGenerator",
+    gitUrl: "https://github.com/Seeagarg/Myportfolio",
     previewUrl: "https://myportfolio-s5os-git-main-seeagarg0203gmailcoms-projects.vercel.app/",
   },
   
