@@ -115,6 +115,15 @@ const projectsData = [
     gitUrl: "https://github.com/Seeagarg/Myportfolio",
     previewUrl: "https://myportfolio-s5os-git-main-seeagarg0203gmailcoms-projects.vercel.app/",
   },
+{
+  id: 13,
+  title: "WonderMind",
+  description: "WonderMind is a React.js-based video portal featuring educational content on Nature, Biology, and the Galaxy.",
+  image: "/images/projects/image.png",
+  tag: ["All", "React"],
+  gitUrl: "https://github.com/Seeagarg/WonderMind",
+  previewUrl: "https://wonder-mind.vercel.app/",
+}
   
 ];
 
