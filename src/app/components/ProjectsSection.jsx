@@ -54,7 +54,7 @@ const projectsData = [
   id: 6,
   title: "News Stack",
   description: "This is a React-based News Application that delivers real-time headlines across various categories like Technology, Business, Sports, and Entertainment. It fetches news via API and presents them in a clean, responsive UI with category-wise filtering and search functionality.",
-  image: "/images/projects/NewsApp.png",
+  image: "/images/projects/image.png",
   tag: ["All", "React"],
   gitUrl: "https://github.com/Seeagarg/newsapp",
   previewUrl: "https://www.news.promotrking.com/",
